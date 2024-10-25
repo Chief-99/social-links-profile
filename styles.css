@@ -28,4 +28,5 @@ img {
 .container {
   width: 24rem;
   text-align: center;
+  background-color: rgb(31, 31, 31);
 }
