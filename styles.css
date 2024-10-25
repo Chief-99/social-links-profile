@@ -45,3 +45,10 @@ img {
   font-weight: 500;
   margin-bottom: 0.25rem;
 }
+
+.location {
+  font-size: 0.875rem;
+  color: rgb(196, 248, 42);
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
