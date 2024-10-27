@@ -74,4 +74,15 @@ img {
   color: white;
   font-weight: bold;
   border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 200ms, color 200ms;
+}
+
+.button-link:hover {
+  background-color: rgb(196, 248, 42);
+  color: rgb(51, 51, 51);
+}
+
+.button-link:active {
+  opacity: 0.8;
 }
